@@ -1,4 +1,4 @@
-package com.welab.k8s_backend_user.common.exception;
+package com.welab.k8s_backend_post.common.exception;
 
 public class NotFound extends ClientError{
     public NotFound(String message) {

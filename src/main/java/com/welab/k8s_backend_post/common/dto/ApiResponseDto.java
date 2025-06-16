@@ -1,4 +1,4 @@
-package com.welab.k8s_backend_user.common.dto;
+package com.welab.k8s_backend_post.common.dto;
 
 import lombok.AccessLevel;
 import lombok.Getter;
